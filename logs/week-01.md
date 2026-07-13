@@ -27,6 +27,14 @@
 
 ## Notes
 
+**Project Description**
+Project 1: Develop scoping review protocol with the following primary research question: How do augmented reality head-mounted displays (AR HMDs) integrated with artificial intelligence capabilities impact emergency medical teams performance and patient outcomes compared to current systems in hospital and pre-hospital emergency settings?
+Project 2: Expand on dataset containing medical flowcharts to train diagnostic AI, with the goal to implement system on AR HMDs
+Project 3: Run experiments collecting data on team coordination and other metrics in simulated medical setting
+
+**Relocation Status**
+I have moved to my mentor's institution, specifically to New York City and commute to Cornell Tech on Roosevelt Island. 
+
 Met with Ann and Angelique for tour and overview of lab
 Taking daily logs in Benchling: 
 7/6/2026		Monday	went over scoping review and added to possible discussion, entities to extract, and started watching "An Introduction to Scoping Reviews" and taking notes applying to this review by UIC Library https://www.youtube.com/watch?v=gHscOZGhKGA

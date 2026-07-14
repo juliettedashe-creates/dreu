@@ -21,8 +21,13 @@
 
 ## Notes
 **Tuesday**
-- AIRLab Meeting Bloomberg 201 1-2pm 
-- Jonathan weekly meeting 2-3pm
+- AIRLab Meeting Bloomberg 201 3-4pm 
+- Jonathan weekly meeting 4-5pm
+
+**Thursday**
+- DREU Student Introduction call online 2:30pm 
+
+
 
 **Friday**
 - AR Medicine Scoping Review call 

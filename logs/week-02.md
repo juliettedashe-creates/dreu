@@ -15,6 +15,7 @@
 - Meet with Jonathan Tuesday to review current progress and ensure I am staying on track
 - Add to presentation about AMS ER Generation project based on feedback
 
+
 ## Results
 
 
@@ -23,6 +24,7 @@
 **Tuesday**
 - AIRLab Meeting Bloomberg 201 3-4pm 
 - Jonathan weekly meeting 4-5pm
+-- Show Jonathan: organized dataset, progress on protocol, presentation based on 1202 paper, ask questions about: equation optimization, running experiment, goals I've set for the summer, MakersLab, Cornell Tech coffee chats, future at Cornell Tech
 
 **Thursday**
 - DREU Student Introduction call online 2:30pm 

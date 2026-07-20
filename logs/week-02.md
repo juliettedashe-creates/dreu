@@ -17,7 +17,8 @@
 
 
 ## Results
-
+- Completed scoping review protocol and made amends with Jonathan, Fahmin and Lindsay
+- Wrote Python script that reads a file and outputs JSON file
 
 
 ## Notes
@@ -34,3 +35,8 @@
 **Friday**
 - AR Medicine Scoping Review call 
 
+7/13/2026		Monday	Got used to the github for project updates, made progress on the protocol 
+7/14/2026		Tuesday	Organized all the files in dataset, found equations for better equation evaluation, attended lab meeting and Jonathan meeting. Specifically we listened to Promise's A exam practice and discussed questions and feedback
+7/15/2026		Wednesday	wrote Python script that turns medical flowchart pdfs into logical json files 
+7/16/2026		Thursday	continued developing Python script and other methods to better convert medical flowchart pdfs into json files with accurate nodes, also started researching APIs and linguistic computational analysis models, met with Jonathan to go over goals and networking, had DREU call and met with Fahmin and Jonathan to go over scoping review protocol, submitted Milestone 2
+7/17/2026		Friday	Protocol meeting with Lindsay, Fahmin, Jonathan and Tisha

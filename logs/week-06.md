@@ -28,7 +28,11 @@ Accomplishments:
 - Collaborate on scoping review for AR in EMS, considering all options for exclusion and inclusion criteria, relevant countries for our search, idea generation for honing our search, and finding main authors in the field
 - Convert and manually check over 40 json files to ensure accuracy and consistency across differing flowchart styles. 
 
-
+Expected results:
+- Hopefully finish the ground truth dataset (200+ pdfs converted into accurate JSON files) and establish a rulebook for future users
+- Do some Covidence progress for scoping review (i.e. screen at least 5 papers according to our criteria)
+- Run a few experiments
+- Create a poster and presentation highlighting work completed
 
 Program Reflection: Notable challenges, exciting things that have taken place in the program so far, and a description of your working environment (who you interact with regularly, etc).
 - Challenges: remaining consistent across differing flowchart styles, PI often traveling, checking progress of other intern and having to correct work, frustration around AI hallucinations

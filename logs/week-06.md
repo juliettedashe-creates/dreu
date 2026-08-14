@@ -11,15 +11,23 @@
 
 
 ## Approach and Implementation
-
+- Set up meeting with Jonathan to discuss progress and next steps
+- take copious notes in preparation for meetings
+- Understand where my efforts are needed and adjust as necessary
 
 
 ## Results
-
+- Had 3 meetings with Jonathan, one to discuss what rest of internship looks like (equation, experiments), one to discuss equation, one to go over ground truth dataset rules
+- Had 1 meeting with Dr. Bellotti and Dr. Rubin and Jonathan showing them progress and next steps and paper, and connected with them on LinkedIn
+- Had 1 meeting with Jonathan and Lindsay going over key authors in field and developing search strategy
+- Developed an equation and began testing its ability with different flowcharts, showed Jonathan
+- Increased ability in CAD and Bambu to print designs in the Maker Lab
+- Developed qualitative/quantitative codebook for scoring AI output
+- Added more ground truth json files 
 
 
 ## Notes
-Research Project Status: A brief summary of  project, inlcuding accomplishments so far, and expected results for the remainder of the summer.
+Research Project Status: A brief summary of  project, including accomplishments so far, and expected results for the remainder of the summer.
 Project 1: Develop scoping review protocol with the following primary research question: How do augmented reality head-mounted displays (AR HMDs) integrated with artificial intelligence capabilities impact emergency medical teams performance and patient outcomes compared to current systems in hospital and pre-hospital emergency settings? Project 2: Expand on dataset containing medical flowcharts to train diagnostic AI, with the goal to implement system on AR HMDs
 
 Accomplishments: 

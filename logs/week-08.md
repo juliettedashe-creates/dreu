@@ -15,7 +15,10 @@
 
 
 ## Results
-
+- Ran 4 experiments successfully with Jonathan and collected data
+- Coded P1 videos to compare with Jonathan
+- Met with Matt Hazenbush for article
+- Had scoping review call to calibrate screening 
 
 
 ## Notes

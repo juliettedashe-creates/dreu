@@ -4,7 +4,8 @@
 
 ## Goals
 - Create and present summer overview in lab meeting, send video to DREU
-- code
+- Code rest of videos 
+- Look over paper before submission
 - 
 
 
